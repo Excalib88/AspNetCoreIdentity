@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identity", "Identity\Identity.csproj", "{F1F1B87E-FEB3-4B4B-AC74-DE18823F2A2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identity.Data", "Identity.Data\Identity.Data.csproj", "{4F17EE60-5B2A-4AE1-AF5C-CC2E489ECD10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1F1B87E-FEB3-4B4B-AC74-DE18823F2A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1F1B87E-FEB3-4B4B-AC74-DE18823F2A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1F1B87E-FEB3-4B4B-AC74-DE18823F2A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1F1B87E-FEB3-4B4B-AC74-DE18823F2A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F17EE60-5B2A-4AE1-AF5C-CC2E489ECD10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F17EE60-5B2A-4AE1-AF5C-CC2E489ECD10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F17EE60-5B2A-4AE1-AF5C-CC2E489ECD10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F17EE60-5B2A-4AE1-AF5C-CC2E489ECD10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

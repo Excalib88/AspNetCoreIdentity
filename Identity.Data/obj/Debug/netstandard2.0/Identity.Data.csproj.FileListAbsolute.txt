@@ -1,0 +1,8 @@
+C:\projects\Identity\Identity.Data\bin\Debug\netstandard2.0\Identity.Data.deps.json
+C:\projects\Identity\Identity.Data\bin\Debug\netstandard2.0\Identity.Data.dll
+C:\projects\Identity\Identity.Data\bin\Debug\netstandard2.0\Identity.Data.pdb
+C:\projects\Identity\Identity.Data\obj\Debug\netstandard2.0\Identity.Data.csprojAssemblyReference.cache
+C:\projects\Identity\Identity.Data\obj\Debug\netstandard2.0\Identity.Data.AssemblyInfoInputs.cache
+C:\projects\Identity\Identity.Data\obj\Debug\netstandard2.0\Identity.Data.AssemblyInfo.cs
+C:\projects\Identity\Identity.Data\obj\Debug\netstandard2.0\Identity.Data.dll
+C:\projects\Identity\Identity.Data\obj\Debug\netstandard2.0\Identity.Data.pdb
